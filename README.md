@@ -1,6 +1,6 @@
 # 🛡️ Network Security Homelab
 
-> A growing collection of hands-on guides, lab walkthroughs, and concept breakdowns covering network security tools, technologies, and best practices — built and tested in real homelab and cloud environments.
+> A growing collection of hands-on guides, lab walkthroughs, and concept breakdowns covering network security tools, technologies, and best practices built and tested in real homelab and cloud environments.
 
 ---
 
